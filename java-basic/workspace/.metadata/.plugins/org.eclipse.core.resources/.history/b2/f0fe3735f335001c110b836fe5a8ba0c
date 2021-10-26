@@ -1,0 +1,19 @@
+
+public class WorkingWithVariables {
+
+	public static void main(String[] args) {
+		// Tipos possiveis de variaveis:
+		// int (Integer) = Numeros inteiros = 1, 2, 3, 4
+		// float (double) = Numeros quebrados = 1.5, 2.3, 3.4
+		// String = "Guilherme gosta de estudar programação"
+		// Char = 'C'
+		// Boolean = true/false
+		
+		int variavelInteiraA = 1;
+		int variavelInteiraB = 1;
+		int resultadoDaSomaDasVariaveisInteiras = variavelInteiraA + variavelInteiraB;
+		
+		System.out.println(resultadoDaSomaDasVariaveisInteiras);
+	}
+
+}
